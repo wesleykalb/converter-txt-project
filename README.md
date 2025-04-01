@@ -13,7 +13,7 @@ Docker: Containers para fácil execução
 ### Como Executar
 
 ## Clone o projeto:
-git clone https://github.com/seu-usuario/txt-converter.git
+git clone https://github.com/wesleykalb/converter-txt-project.git
 cd txt-converter
 
 ## Inicie os containers:
